@@ -1,0 +1,59 @@
+C:\Users\rekha\Source\Repos\SearchService\SearchService\bin\Release\netcoreapp2.1\SearchService.deps.json
+C:\Users\rekha\Source\Repos\SearchService\SearchService\bin\Release\netcoreapp2.1\SearchService.runtimeconfig.json
+C:\Users\rekha\Source\Repos\SearchService\SearchService\bin\Release\netcoreapp2.1\SearchService.runtimeconfig.dev.json
+C:\Users\rekha\Source\Repos\SearchService\SearchService\bin\Release\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\Repos\SearchService\SearchService\bin\Release\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.csprojAssemblyReference.cache
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.csproj.CoreCompileInputs.cache
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorAssemblyInfo.cache
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorAssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.AssemblyInfoInputs.cache
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.AssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorTargetAssemblyInfo.cache
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\bin\Release\netcoreapp2.1\SearchService.deps.json
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\bin\Release\netcoreapp2.1\SearchService.runtimeconfig.json
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\bin\Release\netcoreapp2.1\SearchService.runtimeconfig.dev.json
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\bin\Release\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\bin\Release\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Release\netcoreapp2.1\SearchService.csprojAssemblyReference.cache
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Release\netcoreapp2.1\SearchService.csproj.CoreCompileInputs.cache
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorAssemblyInfo.cache
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorAssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Release\netcoreapp2.1\SearchService.AssemblyInfoInputs.cache
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Release\netcoreapp2.1\SearchService.AssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorTargetAssemblyInfo.cache
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Release\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Release\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\SearchService - master\SearchService\bin\Release\netcoreapp2.1\SearchService.deps.json
+C:\Users\rekha\Source\SearchService - master\SearchService\bin\Release\netcoreapp2.1\SearchService.runtimeconfig.json
+C:\Users\rekha\Source\SearchService - master\SearchService\bin\Release\netcoreapp2.1\SearchService.runtimeconfig.dev.json
+C:\Users\rekha\Source\SearchService - master\SearchService\bin\Release\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\SearchService - master\SearchService\bin\Release\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\SearchService - master\SearchService\obj\Release\netcoreapp2.1\SearchService.csproj.CoreCompileInputs.cache
+C:\Users\rekha\Source\SearchService - master\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorAssemblyInfo.cache
+C:\Users\rekha\Source\SearchService - master\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorAssemblyInfo.cs
+C:\Users\rekha\Source\SearchService - master\SearchService\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rekha\Source\SearchService - master\SearchService\obj\Release\netcoreapp2.1\SearchService.AssemblyInfoInputs.cache
+C:\Users\rekha\Source\SearchService - master\SearchService\obj\Release\netcoreapp2.1\SearchService.AssemblyInfo.cs
+C:\Users\rekha\Source\SearchService - master\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorTargetAssemblyInfo.cache
+C:\Users\rekha\Source\SearchService - master\SearchService\obj\Release\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\SearchService - master\SearchService\obj\Release\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\bin\Release\netcoreapp2.1\SearchService.deps.json
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\bin\Release\netcoreapp2.1\SearchService.runtimeconfig.json
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\bin\Release\netcoreapp2.1\SearchService.runtimeconfig.dev.json
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\bin\Release\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\bin\Release\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.csprojAssemblyReference.cache
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.csproj.CoreCompileInputs.cache
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorAssemblyInfo.cache
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorAssemblyInfo.cs
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.AssemblyInfoInputs.cache
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.AssemblyInfo.cs
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.RazorTargetAssemblyInfo.cache
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\Repos\challenge-back-end\SearchService\SearchService\obj\Release\netcoreapp2.1\SearchService.pdb

@@ -1,0 +1,30 @@
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Debug\netcoreapp2.1\SearchService.csproj.CoreCompileInputs.cache
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Debug\netcoreapp2.1\SearchService.AssemblyInfoInputs.cache
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Debug\netcoreapp2.1\SearchService.AssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService\SearchService\bin\Debug\netcoreapp2.1\SearchService.deps.json
+C:\Users\rekha\Source\Repos\SearchService\SearchService\bin\Debug\netcoreapp2.1\SearchService.runtimeconfig.json
+C:\Users\rekha\Source\Repos\SearchService\SearchService\bin\Debug\netcoreapp2.1\SearchService.runtimeconfig.dev.json
+C:\Users\rekha\Source\Repos\SearchService\SearchService\bin\Debug\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\Repos\SearchService\SearchService\bin\Debug\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Debug\netcoreapp2.1\SearchService.RazorAssemblyInfo.cache
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Debug\netcoreapp2.1\SearchService.RazorAssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Debug\netcoreapp2.1\SearchService.RazorTargetAssemblyInfo.cache
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Debug\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Debug\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService\SearchService\obj\Debug\netcoreapp2.1\SearchService.csprojAssemblyReference.cache
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\bin\Debug\netcoreapp2.1\SearchService.deps.json
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\bin\Debug\netcoreapp2.1\SearchService.runtimeconfig.json
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\bin\Debug\netcoreapp2.1\SearchService.runtimeconfig.dev.json
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\bin\Debug\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\bin\Debug\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Debug\netcoreapp2.1\SearchService.csproj.CoreCompileInputs.cache
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Debug\netcoreapp2.1\SearchService.RazorAssemblyInfo.cache
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Debug\netcoreapp2.1\SearchService.RazorAssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Debug\netcoreapp2.1\SearchService.AssemblyInfoInputs.cache
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Debug\netcoreapp2.1\SearchService.AssemblyInfo.cs
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Debug\netcoreapp2.1\SearchService.RazorTargetAssemblyInfo.cache
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Debug\netcoreapp2.1\SearchService.dll
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Debug\netcoreapp2.1\SearchService.pdb
+C:\Users\rekha\Source\Repos\SearchService - Copy\SearchService\obj\Debug\netcoreapp2.1\SearchService.csprojAssemblyReference.cache
